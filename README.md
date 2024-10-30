@@ -81,7 +81,6 @@ The analysis results are summarized as follows:
 4. The gender ratio is fairly balanced, with a slight majority of male customers.
 5. The five customers with the highest estimated salaries are led by Lucciano, with an income of $199,992.48, followed closely by Dyer, Gannon, Moss, and Adams.
 6. Currently, 20.37% of the customer base has exited, with Germany showing the highest average balance among exited customers at $119,730.12.
-7. Additionally, Germany exhibits the highest retention rate of 100.45%, and there are 2,655 customers across each gender and country who hold the highest credit scores while remaining active members.
 
 
 ### Recommendations
