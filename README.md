@@ -21,7 +21,8 @@
 
 
 
-![Picture](https://github.com/user-attachments/assets/fa535c38-c32b-4a63-977d-b80f4e939f9c)
+![Screenshot 2024-10-28 154231](https://github.com/user-attachments/assets/a43390b2-7b83-47ff-8d04-3d7df8693199)
+
 
 
 
